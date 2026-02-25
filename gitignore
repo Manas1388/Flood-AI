@@ -1,0 +1,9 @@
+# Ignore datasets
+*.csv
+
+# Ignore models
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
