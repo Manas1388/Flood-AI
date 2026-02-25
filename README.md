@@ -23,6 +23,8 @@ AI-based flood risk prediction system using real-time weather data.
 3. Fetch live weather data
 4. Predict flood risk
 5. Send alerts if risk is high
-
+Dataset Note:
+This repository includes a small sample dataset for demonstration.
+The full dataset is not included due to file size limitations.
 ## Author
 Manas Amoli (Lone Wolf)
